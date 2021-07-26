@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate on **Web development**
 
 - 📫 How to reach me **thoshbala@gmail.com**
-- My website **https://thoshinny-cyber.github.io/Thoshinny-cyber/**
 
 
 
