@@ -274,6 +274,7 @@ section .title::after{
 .teams .title::after{
     background: #111;
     content: "what I have done";
+    font-size: small ;
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -599,15 +600,30 @@ footer span a:hover{
         margin: 20px 0;
         font-size: 25px;
     }
+
+    .home{
+        height:max-content;
+        width:min-content;
+        
+    }
+    .home .hi{
+           padding-top: 200px;
+           padding-bottom: -20px;
+           margin-left: -40px;
+         
+
+    }
     .home .home-content .text-2{
-        font-size: 70px;
+        font-size: 35px;
+        padding-left: 100px;
     }
     .home .home-content .text-3{
-        font-size: 35px;
+        font-size: 20px;
+        padding-left: 100px;
     }
     .home .home-content a{
         font-size: 23px;
-        padding: 10px 30px;
+        padding: 0px 30px;
     }
     .max-width{
         max-width: 930px;
