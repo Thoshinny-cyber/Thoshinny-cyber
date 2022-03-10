@@ -42,7 +42,7 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vea32910d5631902da7876bf3132bf2a23b4c6e7b82b4223c953da55851058027/firebase/images/lockup.svg" alt="css3" width="40" height="40"/> </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" alt="css3" width="40" height="40"/> </a>
    <a href="https://www.java.com/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://web3.foundation/" target="_blank"> <img src="https://web3.foundation/assets/images/parallax/home2-large.jpg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://web3.foundation/" target="_blank"> <img src="https://compile.blog/wp-content/uploads/2021/11/web3-icon.png" alt="css3" width="40" height="40"/> </a>
   <a href="https://metamask.io//" target="_blank"> <img src="https://images.ctfassets.net/9sy2a0egs6zh/4zJfzJbG3kTDSk5Wo4RJI1/1b363263141cf629b28155e2625b56c9/mm-logo.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://flutter.dev/?gclid=CjwKCAiA4KaRBhBdEiwAZi1zzr4BP50ggS9sKKQ8Qz7bGpkSZglPkQ_GUOMwyQxjbqBTo8Lv0qChlBoCvKEQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="css3" width="40" height="40"/> </a>
   
