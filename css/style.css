@@ -558,25 +558,27 @@ footer span a:hover{
 
 
 /* responsive media query start */
-@media (max-width: 1104px) {
+@media (max-width: 1000px) {
     .about .about-content .left img{
         height: 350px;
         width: 350px;
     }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1000px) {
     .max-width{
         padding: 0 50px;
     }
 }
-@media (max-width: 947px){
+@media (max-width: 1000px){
     .menu-btn{
         display: block;
         z-index: 999;
+        padding-left:260px;
     }
     .menu-btn i.active:before{
         content: "\f00d";
+        
     }
     .navbar .menu{
         position: fixed;
@@ -607,15 +609,16 @@ footer span a:hover{
         
     }
     .home .hi{
-           padding-top: 200px;
-           padding-bottom: -20px;
-           margin-left: -40px;
+           padding-top: 10px;
+           padding-bottom: -10px;
+           margin-left: -150px;
+           margin-bottom: -100px;
          
 
     }
     .home .home-content .text-2{
         font-size: 35px;
-        padding-left: 100px;
+        padding-left: 50px;
     }
     .home .home-content .text-3{
         font-size: 20px;
@@ -626,31 +629,58 @@ footer span a:hover{
         padding: 0px 30px;
     }
     .max-width{
-        max-width: 930px;
+        max-width: 400px;
+    }
+    .about{
+        width:635px;
     }
     .about .about-content .column{
-        width: 100%;
+        width: 2000px;
+        /* margin-left:100px;
+        margin-right:10px; */
     }
     .about .about-content .left{
         display: flex;
         justify-content: center;
-        margin: 0 auto 60px;
+        /* margin: 0 auto 60p; */
+        /* margin-left:80px;
+        margin-right:80px; */
     }
     .about .about-content .right{
-        flex: 100%;
+        flex: 1000px;
+        /* margin-left:100px;
+        margin-right:10px; */
+        
     }
     .services .serv-content .card{
-        width: calc(50% - 10px);
+        width: calc(90% - 100px);
+        /* width: 200px; */
         margin-bottom: 20px;
+    }
+    .services {
+        width:635px
     }
     .skills .skills-content .column,
     .contact .contact-content .column{
         width: 100%;
         margin-bottom: 35px;
     }
+    .skills{
+        width:635px;
+    }
+    .contact{
+        width:635px;
+    }
+    .footer{
+        width: 635px;
+    }
+    .navbar{
+        width: 635px;
+    }
+        
 }
 
-@media (max-width: 690px) {
+@media (max-width: 650px) {
     .max-width{
         padding: 0 23px;
     }
@@ -668,7 +698,7 @@ footer span a:hover{
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 550px) {
     .home .home-content .text-2{
         font-size: 50px;
     }
@@ -697,4 +727,5 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+ 
 }
