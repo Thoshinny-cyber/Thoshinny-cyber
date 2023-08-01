@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Web Development and content creation**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Web development**
 
