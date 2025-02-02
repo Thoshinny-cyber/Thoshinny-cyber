@@ -20,7 +20,7 @@
 
 #### ⚙️ DevOps & Cloud  
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.kaizenanalytix.com/wp-content/uploads/2024/09/aws-white.png" alt="AWS" width="40" height="40" style="margin-right: 15px;"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.kaizenanalytix.com/wp-content/uploads/2024/09/aws-white.png" alt="AWS" width="40" height="40" style="margin-right: 25px;"/> </a>
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvncqrKGrpCcNrypfeuui05nlTFoWVFllYg&s" alt="Jenkins" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </a>
    <a href="https://kernel.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/1013/132/png-transparent-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird-linux-thumbnail.png" alt="Kubernetes" width="40" height="40"/> </a>
