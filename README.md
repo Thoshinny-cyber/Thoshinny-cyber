@@ -23,9 +23,9 @@
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.kaizenanalytix.com/wp-content/uploads/2024/09/aws-white.png" alt="AWS" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvncqrKGrpCcNrypfeuui05nlTFoWVFllYg&s" alt="Jenkins" width="40" height="40"/> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> </a>
-   <a href="https://kernel.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/351/692/png-transparent-linux-logo-linux-distribution-tux-gnu-linux-bird-linux-kernel-thumbnail.png" alt="Kubernetes" width="40" height="40"/> </a>
+   <a href="https://kernel.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/1013/132/png-transparent-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird-linux-thumbnail.png" alt="Kubernetes" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" alt="Git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" alt="Git" width="50" height="40"/> </a>
 </p>
 
 #### 🔗 Blockchain Development  
