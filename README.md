@@ -73,5 +73,4 @@
 
 ---
 
-This version makes your profile more structured, highlighting your DevOps expertise, Terraform learning, and Blockchain aspirations while ensuring a clean and professional look. Let me know if you need any tweaks! 🚀
 
