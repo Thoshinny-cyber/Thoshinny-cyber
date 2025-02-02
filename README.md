@@ -21,8 +21,8 @@
 #### ⚙️ DevOps & Cloud  
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.kaizenanalytix.com/wp-content/uploads/2024/09/aws-white.png" alt="AWS" width="40" height="40" style="margin-right: 30px;"/> </a>
-  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvncqrKGrpCcNrypfeuui05nlTFoWVFllYg&s" alt="Jenkins" width="40" height="40" style="margin-right: 30px;"/> </a>
-  <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="margin-right: 30px;"/> </a>
+  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLvncqrKGrpCcNrypfeuui05nlTFoWVFllYg&s" alt="Jenkins" width="40" height="40" style="margin-right: 50px;"/> </a>
+  <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="margin-right: 50px;"/> </a>
    <a href="https://kernel.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/1013/132/png-transparent-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird-linux-thumbnail.png" alt="Kubernetes" width="40" height="40" style="margin-right: 30px;"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 30px;"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" alt="Git" width="50" height="40" style="margin-right: 30px;"/> </a>
@@ -68,7 +68,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/thoshinny-b-6a278b1ab/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://stackoverflow.com/users/16461094/thoshinny-b" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/></a>
-  <a href="https://www.hackerrank.com/Thoshinny" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/></a>
 </p>
 
 ---
